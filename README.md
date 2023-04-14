@@ -1,3 +1,3 @@
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wiktork02&show_icons=true&locale=en&layout=compact" alt="wiktork02" /></p>
+<p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wikork02&show_icons=true&theme=radical)</p>
 
